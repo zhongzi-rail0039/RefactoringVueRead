@@ -1,6 +1,12 @@
-# read
+# 阅读读书App
 
-> A Vue.js project
+> 测试电子书在浏览器中
+
+- static 静态服务器中下载
+
+> 阅读器引擎epubjs
+
+- `npm install epubjs --save`
 
 ## Build Setup
 
